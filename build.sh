@@ -2,4 +2,6 @@
 
 sudo apt install postgresql-devel
 
+echo test
+
 bundle install
